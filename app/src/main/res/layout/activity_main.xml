@@ -146,7 +146,7 @@
                 android:layout_height="match_parent">
 
 
-                
+
                 <TextView
                     android:id="@+id/conta1"
                     android:layout_width="wrap_content"

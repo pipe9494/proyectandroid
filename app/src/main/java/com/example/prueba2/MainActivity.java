@@ -42,17 +42,18 @@ public class MainActivity extends AppCompatActivity {
         final ImageButton boton1 = findViewById(R.id.button1);
 
 
+
         boton1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
                 boton1.setImageResource(R.drawable.ic_circulo);
 
-           /*     Toast toast1 =
+                Toast toast1 =
                         Toast.makeText(getApplicationContext(),
                                 "Toast por defecto", Toast.LENGTH_SHORT);
 
                 toast1.show();
-*/
+
 
 
            /*dffs*/
