@@ -47,12 +47,15 @@ public class MainActivity extends AppCompatActivity {
 
                 boton1.setImageResource(R.drawable.ic_circulo);
 
-                Toast toast1 =
+           /*     Toast toast1 =
                         Toast.makeText(getApplicationContext(),
                                 "Toast por defecto", Toast.LENGTH_SHORT);
 
                 toast1.show();
+*/
 
+
+           /*dffs*/
 
             }
         });
